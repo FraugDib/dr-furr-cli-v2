@@ -23,7 +23,7 @@ To achieve the fastest performance, **DRFURR-CLI** also interacts with smart con
 
 **DRFURR-CLI** supports multiple popular EVM Blockchain network.
 
-![Network Selection](https://user-images.githubusercontent.com/94490774/151673039-d4f405cd-3388-464c-a7d1-eb7ea35081b0.jpg)
+![Network Selection](https://user-images.githubusercontent.com/94490774/151673335-6810f663-9cad-459f-9fe7-52eb444f4d8d.png)
 
 ## Features
 ### Fair Launch Sniping Tools
